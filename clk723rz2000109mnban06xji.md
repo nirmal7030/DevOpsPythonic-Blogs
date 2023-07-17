@@ -4,7 +4,7 @@ datePublished: Mon Jul 17 2023 16:04:51 GMT+0000 (Coordinated Universal Time)
 cuid: clk723rz2000109mnban06xji
 slug: basic-linux-commands
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689609601261/b4f1cda3-7cc0-44f3-a212-25717dd377d1.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1689609878820/0d2244bb-c979-4c98-9f21-1784681de8c5.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1689610207879/a35e0811-ac51-4ca7-b97a-5f840a7dc0cf.jpeg
 tags: linux, opensource, devops, trainwithshubham, devopspythonic
 
 ---
