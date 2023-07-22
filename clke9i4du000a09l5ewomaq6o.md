@@ -4,7 +4,7 @@ datePublished: Sat Jul 22 2023 17:06:21 GMT+0000 (Coordinated Universal Time)
 cuid: clke9i4du000a09l5ewomaq6o
 slug: devops-adventures-day-6-unraveling-file-permissions-and-acl
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690045500616/92d08be6-7251-4224-ab7a-069d495a47e1.avif
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1690045567451/c7b8fdb6-e025-4ed7-8bf7-64a75e419fe3.avif
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1690045669468/8fc996fb-359a-487f-b25b-6c41a6f84361.avif
 tags: linux, aws, devops, trainwithshubham, devopspythonic
 
 ---
