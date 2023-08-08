@@ -3,7 +3,7 @@ title: "😎🚀 Day 11 Task: Advanced Git & GitHub for DevOps Engineers: Part-2
 datePublished: Sun Aug 06 2023 18:58:34 GMT+0000 (Coordinated Universal Time)
 cuid: clkzt47gh000f09mqa5ls261f
 slug: day-11-task-advanced-git-github-for-devops-engineers-part-2
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691348233488/34aa704b-b54f-483e-9a36-fd2a1053a754.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691497440045/5a292fe6-70fa-4d62-b9c2-1cd0592fff74.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1691348254551/6d6cb4cc-8f4d-43e6-aa14-b5055fcf2ec1.jpeg
 tags: linux, aws, github, devops, devopspythonic
 
