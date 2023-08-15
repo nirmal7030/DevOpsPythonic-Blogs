@@ -109,7 +109,7 @@ print(student)          # Output: {'name': 'Alice', 'age': 21, 'major': 'Compute
 
 Data types are like the building blocks of programming. They help us organize and work with different kinds of data. Let's break down the differences between three crucial data types: lists, tuples, and sets.
 
-### **List: Your Versatile Collection**
+**List: Your Versatile Collection**
 
 * **Definition**: An ordered collection of items that can be of any type.
     
@@ -120,7 +120,7 @@ Data types are like the building blocks of programming. They help us organize an
     * Enclosed in square brackets `[ ]`.
         
 
-### **Tuple: Your Immutable Friend**
+**Tuple: Your Immutable Friend**
 
 * **Definition**: An ordered collection of items that is unchangeable once created.
     
@@ -131,7 +131,7 @@ Data types are like the building blocks of programming. They help us organize an
     * Provides data integrity, perfect for constants.
         
 
-### **Set: Your No-Duplicate Zone**
+**Set: Your No-Duplicate Zone**
 
 * **Definition**: An unordered collection of unique items.
     
